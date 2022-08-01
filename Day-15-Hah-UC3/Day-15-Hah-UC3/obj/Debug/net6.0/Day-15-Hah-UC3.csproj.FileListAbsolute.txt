@@ -1,0 +1,15 @@
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\bin\Debug\net6.0\Day-15-Hah-UC3.exe
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\bin\Debug\net6.0\Day-15-Hah-UC3.deps.json
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\bin\Debug\net6.0\Day-15-Hah-UC3.runtimeconfig.json
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\bin\Debug\net6.0\Day-15-Hah-UC3.dll
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\bin\Debug\net6.0\Day-15-Hah-UC3.pdb
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.csproj.AssemblyReference.cache
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.AssemblyInfoInputs.cache
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.AssemblyInfo.cs
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.csproj.CoreCompileInputs.cache
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.dll
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\refint\Day-15-Hah-UC3.dll
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.pdb
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\Day-15-Hah-UC3.genruntimeconfig.cache
+C:\RFP\C_sharp\Day-15-Hah-UC3\Day-15-Hah-UC3\obj\Debug\net6.0\ref\Day-15-Hah-UC3.dll
